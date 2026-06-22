@@ -1,5 +1,5 @@
 # 🎛️ Modern C++ for JUCE Developers — Cheat Sheet
-*A practical guide for audio plugin & DSP development (C++11 → C++26)*
+*A practical guide for audio plugin & DSP development *
 
 ---
 
