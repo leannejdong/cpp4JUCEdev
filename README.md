@@ -144,7 +144,7 @@ match (event) {
 
 ```
 
-** C++ Standards Summary Table ** 
+### C++ Standards Summary Table 
 
 | Standard | Must‑Know Additions |
 | --- | --- |
@@ -157,7 +157,7 @@ match (event) {
 | **C++23** | expected, mdspan, print, more ranges |
 | **C++26** | reflection, pattern matching, senders/receivers |
 
-** JUCE pro tips **
+### JUCE pro tips 
 
 Prefer value semantics for `AudioBuffer<float>`
 
@@ -175,7 +175,7 @@ Use lambdas for parameter attachments
 
 Use `dsp::ProcessorChain` with templates
 
-** Anti‑Patterns to Avoid **
+### Anti‑Patterns to Avoid 
 
 ❌ Raw new / delete  
 ❌ Raw owning pointers
